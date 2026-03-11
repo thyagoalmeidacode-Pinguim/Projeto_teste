@@ -1,0 +1,5 @@
+Nome: Thyago
+Idade: 44
+Curso: Python
+Email: thyago@gmail.com
+-----------------------------
